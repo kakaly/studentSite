@@ -1,4 +1,4 @@
-Rails.application.routes.draw do
+StudentSite::Application.routes.draw do
     resources :admins    
 root :to => redirect('admins')
 end
