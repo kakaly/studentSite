@@ -7,6 +7,9 @@ gem 'rails', '4.1.7'
 gem 'mysql'
 gem 'mysql2'
 #gem 'sqlite3'
+#Full calendar gem
+#gem 'fullcalendar-rails'
+#gem 'momentjs-rails'
 #Use CSV for parsing CSV files
 gem 'fastercsv' 
 # Use SCSS for stylesheets
